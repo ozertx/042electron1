@@ -1,0 +1,2 @@
+
+module.exports.MAIN = 'main'
